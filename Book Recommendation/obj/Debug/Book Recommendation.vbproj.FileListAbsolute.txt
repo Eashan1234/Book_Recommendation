@@ -1,0 +1,48 @@
+D:\Book Recommendation\Book Recommendation\bin\Debug\Book Recommendation.exe.config
+E:\Book Recommendation\Book Recommendation\bin\Debug\Book Recommendation.exe.config
+E:\Book Recommendation\Book Recommendation\bin\Debug\Book Recommendation.exe
+E:\Book Recommendation\Book Recommendation\bin\Debug\Book Recommendation.pdb
+E:\Book Recommendation\Book Recommendation\bin\Debug\Book Recommendation.xml
+E:\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.vbprojResolveAssemblyReference.cache
+E:\Book Recommendation\Book Recommendation\obj\Debug\Book_Recommendation.Form1.resources
+E:\Book Recommendation\Book Recommendation\obj\Debug\Book_Recommendation.Resources.resources
+E:\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.vbproj.GenerateResource.Cache
+E:\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.vbproj.CoreCompileInputs.cache
+E:\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.exe
+E:\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.xml
+E:\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.pdb
+D:\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.exe
+D:\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.xml
+D:\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.pdb
+D:\Book Recommendation\Book Recommendation\bin\Debug\Book Recommendation.exe
+D:\Book Recommendation\Book Recommendation\bin\Debug\Book Recommendation.pdb
+D:\Book Recommendation\Book Recommendation\bin\Debug\Book Recommendation.xml
+D:\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.vbprojResolveAssemblyReference.cache
+D:\Book Recommendation\Book Recommendation\obj\Debug\Book_Recommendation.Form1.resources
+D:\Book Recommendation\Book Recommendation\obj\Debug\Book_Recommendation.Resources.resources
+D:\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.vbproj.GenerateResource.Cache
+E:\CAD 2017\Book Recommendation\Book Recommendation\bin\Debug\Book Recommendation.exe.config
+E:\CAD 2017\Book Recommendation\Book Recommendation\bin\Debug\Book Recommendation.exe
+E:\CAD 2017\Book Recommendation\Book Recommendation\bin\Debug\Book Recommendation.pdb
+E:\CAD 2017\Book Recommendation\Book Recommendation\bin\Debug\Book Recommendation.xml
+E:\CAD 2017\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.vbprojResolveAssemblyReference.cache
+E:\CAD 2017\Book Recommendation\Book Recommendation\obj\Debug\Book_Recommendation.Form1.resources
+E:\CAD 2017\Book Recommendation\Book Recommendation\obj\Debug\Book_Recommendation.Resources.resources
+E:\CAD 2017\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.vbproj.GenerateResource.cache
+E:\CAD 2017\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.vbproj.CoreCompileInputs.cache
+E:\CAD 2017\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.exe
+E:\CAD 2017\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.xml
+E:\CAD 2017\Book Recommendation\Book Recommendation\obj\Debug\Book Recommendation.pdb
+C:\Data\CP2\Book Recommendation-20191209T034522Z-001\Book Recommendation\bin\Debug\Book Recommendation.exe.config
+C:\Data\CP2\Book Recommendation-20191209T034522Z-001\Book Recommendation\bin\Debug\Book Recommendation.exe
+C:\Data\CP2\Book Recommendation-20191209T034522Z-001\Book Recommendation\bin\Debug\Book Recommendation.pdb
+C:\Data\CP2\Book Recommendation-20191209T034522Z-001\Book Recommendation\bin\Debug\Book Recommendation.xml
+C:\Data\CP2\Book Recommendation-20191209T034522Z-001\Book Recommendation\obj\Debug\Book Recommendation.vbprojAssemblyReference.cache
+C:\Data\CP2\Book Recommendation-20191209T034522Z-001\Book Recommendation\obj\Debug\Book_Recommendation.Form1.resources
+C:\Data\CP2\Book Recommendation-20191209T034522Z-001\Book Recommendation\obj\Debug\Book_Recommendation.Resources.resources
+C:\Data\CP2\Book Recommendation-20191209T034522Z-001\Book Recommendation\obj\Debug\Book Recommendation.vbproj.GenerateResource.cache
+C:\Data\CP2\Book Recommendation-20191209T034522Z-001\Book Recommendation\obj\Debug\Book Recommendation.exe
+C:\Data\CP2\Book Recommendation-20191209T034522Z-001\Book Recommendation\obj\Debug\Book Recommendation.xml
+C:\Data\CP2\Book Recommendation-20191209T034522Z-001\Book Recommendation\obj\Debug\Book Recommendation.pdb
+C:\Data\CP2\Book Recommendation-20191209T034522Z-001\Book Recommendation\obj\Debug\Book_Recommendation.Form2.resources
+C:\Data\CP2\Book Recommendation-20191209T034522Z-001\Book Recommendation\obj\Debug\Book_Recommendation.Form3.resources
